@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aridhih
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me aridhih444@gmail.com
